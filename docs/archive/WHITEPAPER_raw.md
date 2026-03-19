@@ -565,10 +565,3 @@ the system provides a strong data foundation for advanced 3D AI systems.
 This work automates the data generation process while also addressing practical concerns such as dataset organization, quality control, and pre-training verification. In this sense, Video2Multimodal3D is not merely a preprocessing tool, but a full-stack infrastructure for 3D AI data engineering.
 
 ---
-
-If you want, I can next convert this into:
-
-- a **README.md version**
-- a **GitHub wiki version**
-- a **docx / PDF report**
-- or a **short presentation-style summary**
