@@ -63,6 +63,10 @@ The pipeline was designed around the following objectives:
 
 The pipeline applies a multi-stage data generation chain starting from a video input. Each generated modality is organized around a shared frame identity so that all outputs remain spatially and structurally aligned.
 
+<p align="center">
+  <img src="../video-pipeline.png" alt="Video Pipeline for Multimodal 3D Data Preparation" />
+</p>
+
 The core data flow is as follows:
 
 ```text
@@ -283,6 +287,10 @@ These are later packaged as:
 - segmentation identity representation
 - visual and training-oriented segmentation validation
 - standardized part separation
+
+<p align="center">
+  <img src="../vid2img-process.png" alt="Video Pipeline for Multimodal 3D Data Preparation" />
+</p>
 
 ---
 ## 5.9 Caption Generation
